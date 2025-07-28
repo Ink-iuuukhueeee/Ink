@@ -1,4 +1,4 @@
-import { useRef } from 'react'
+import { useEffect, useRef } from 'react'
 import type { FeedbackState } from '../types/types'
 import { IconCheck, IconX } from '../constants/constants'
 
@@ -22,6 +22,12 @@ const Flashcard: React.FC<FlashcardProps> = ({
   showAnswer
 }) => {
   const inputRef = useRef<HTMLInputElement>(null)
+
+  useEffect(() => {
+    if (feedback === 'idle' && inputRef.current) {
+      inputRef.current.focus()
+    }
+  }, [feedback])
 
   const feedbackBorderColor =
     feedback === 'correct'
