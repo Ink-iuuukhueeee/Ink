@@ -53,7 +53,7 @@ const Flashcard: React.FC<FlashcardProps> = ({
               ref={inputRef}
               type="text"
               lang="ja"
-              placeholder="Enter reading (ひらがな)"
+              placeholder="Enter reading (ひらカタ)"
               value={userInput}
               onChange={onInputChange}
               disabled={feedback === 'correct'}

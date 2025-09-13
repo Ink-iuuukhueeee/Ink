@@ -53,11 +53,11 @@ export const vocabularyData: VocabularyItem[] = [
   // { "kanji": "枚", "furigana": "まい" }
   {
     kanji: '山',
-    furigana: 'やまサン'
+    furigana: 'サンやま'
   },
   {
     kanji: '川',
-    furigana: 'かわセン'
+    furigana: 'センかわ'
   },
   {
     kanji: '天',
@@ -69,426 +69,443 @@ export const vocabularyData: VocabularyItem[] = [
   },
   {
     kanji: '田',
-    furigana: 'たデン'
+    furigana: 'デンた'
   },
   {
     kanji: '雨',
-    furigana: 'あめウ'
+    furigana: 'ウあめ'
   },
   {
     kanji: '一',
-    furigana: 'ひとつイチイッー'
+    furigana: 'イチひとつ'
   },
   {
     kanji: '二',
-    furigana: 'ふたつ'
+    furigana: 'ニふたつ'
   },
   {
     kanji: '三',
-    furigana: 'みつっつサン'
+    furigana: 'サンみっつ'
   },
   {
     kanji: '四',
-    furigana: 'よっつよんよシ'
+    furigana: 'よっつシ'
   },
   {
     kanji: '五',
-    furigana: 'いつつゴ'
+    furigana: 'ゴいつ'
   },
   {
     kanji: '六',
-    furigana: 'むっつロクロッー'
+    furigana: 'ロクむっつ'
   },
   {
     kanji: '七',
-    furigana: 'ななつシチ'
+    furigana: 'シチななつ'
   },
   {
     kanji: '八',
-    furigana: 'やっつハチ'
+    furigana: 'ハチやっつ'
   },
   {
     kanji: '九',
-    furigana: 'ここのつキュウク'
+    furigana: 'キュウここのつ'
   },
   {
     kanji: '十',
-    furigana: 'とおジュウ'
+    furigana: 'ジュウとお'
   },
   {
-    kanji: '百',
-    furigana: 'ヒャク'
-  },
-  {
-    kanji: '千',
-    furigana: 'ちセン'
-  },
-  {
-    kanji: '万',
-    furigana: 'マンパン'
-  },
-  {
-    kanji: '円',
-    furigana: 'エン'
-  },
-  {
-    kanji: '前',
-    furigana: 'まえゼン'
-  },
-  {
-    kanji: '後',
-    furigana: 'うしろあとゴコウ'
-  },
-  {
-    kanji: '左',
-    furigana: 'ひだりサ'
-  },
-  {
-    kanji: '右',
-    furigana: 'みぎウユウ'
-  },
-  {
-    kanji: '上',
-    furigana: 'うえあがるジョウ'
-  },
-  {
-    kanji: '下',
-    furigana: 'したさがるカゲ'
-  },
-  {
-    kanji: '目',
-    furigana: 'めモク'
-  },
-  {
-    kanji: '口',
-    furigana: 'くちコウ'
-  },
-  {
-    kanji: '耳',
-    furigana: 'みみジ'
-  },
-  {
-    kanji: '手',
-    furigana: 'てシュ'
-  },
-  {
-    kanji: '足',
-    furigana: 'あしたりるソク'
-  },
-  {
-    kanji: '力',
-    furigana: 'ちからリョクリキ'
-  },
-  {
-    kanji: '父',
-    furigana: 'ちちフ'
-  },
-  {
-    kanji: '母',
-    furigana: 'ははボ'
-  },
-  {
-    kanji: '男',
-    furigana: 'おとこダンナン'
-  },
-  {
-    kanji: '女',
-    furigana: 'おんなジョ'
-  },
-  {
-    kanji: '子',
-    furigana: 'こシ'
-  },
-  {
-    kanji: '人',
-    furigana: 'ひとジンニン'
-  },
-  {
-    kanji: '名',
-    furigana: 'なメイ'
-  },
-  {
-    kanji: '月',
-    furigana: 'つきゲツ-ガツ'
-  },
-  {
-    kanji: '火',
-    furigana: 'ひカ'
-  },
-  {
-    kanji: '水',
-    furigana: 'みずスイ'
-  },
-  {
-    kanji: '木',
-    furigana: 'きモク'
-  },
-  {
-    kanji: '金',
-    furigana: 'かねキン'
-  },
-  {
-    kanji: '土',
-    furigana: 'つちドト'
-  },
-  {
-    kanji: '日',
-    furigana: 'ひびニチニジツ'
-  },
-  {
-    kanji: '先',
-    furigana: 'さきセン'
-  },
-  {
-    kanji: '生',
-    furigana: 'うまれるいきるセイ'
-  },
-  {
-    kanji: '学',
-    furigana: 'まなぶガクガッー'
-  },
-  {
-    kanji: '校',
-    furigana: 'コウ'
-  },
-  {
-    kanji: '本',
-    furigana: 'もとホンポンボン'
-  },
-  {
-    kanji: '友',
-    furigana: 'ともユウ'
-  },
-  {
-    kanji: '年',
-    furigana: 'としネン'
-  },
-  {
-    kanji: '毎',
-    furigana: 'マイ'
+    kanji: '零',
+    furigana: 'れい'
   },
   {
     kanji: '時',
-    furigana: 'ときジ'
+    furigana: 'ジとき'
   },
   {
-    kanji: '分',
-    furigana: 'わけるわかるブン・フン・-プン'
+    kanji: '毎',
+    furigana: 'マイごと'
   },
   {
-    kanji: '午',
-    furigana: 'ゴ'
-  },
-  {
-    kanji: '間',
-    furigana: 'あいだまカン'
-  },
-  {
-    kanji: '今',
-    furigana: 'いまコン'
-  },
-  {
-    kanji: '半',
-    furigana: 'ハン'
-  },
-  {
-    kanji: '週',
-    furigana: 'シュウ'
-  },
-  {
-    kanji: '朝',
-    furigana: 'あさチョウ'
-  },
-  {
-    kanji: '昼',
-    furigana: 'ひるチュウ'
-  },
-  {
-    kanji: '夕',
-    furigana: 'ゆう'
-  },
-  {
-    kanji: '夜',
-    furigana: 'よるよヤ'
-  },
-  {
-    kanji: '高',
-    furigana: 'たかいコウ'
-  },
-  {
-    kanji: '大',
-    furigana: 'おおきいダイタイ'
-  },
-  {
-    kanji: '中',
-    furigana: 'なかチュウジュウ'
-  },
-  {
-    kanji: '小',
-    furigana: 'ちいさいおこショウ'
-  },
-  {
-    kanji: '長',
-    furigana: 'ながいチョウ'
-  },
-  {
-    kanji: '白',
-    furigana: 'しろしろいハク'
-  },
-  {
-    kanji: '安',
-    furigana: 'やすいアン'
-  },
-  {
-    kanji: '新',
-    furigana: 'あたらしいシン'
-  },
-  {
-    kanji: '古',
-    furigana: 'ふるいコ'
-  },
-  {
-    kanji: '多',
-    furigana: 'おおいタ'
-  },
-  {
-    kanji: '少',
-    furigana: 'すくないすこーしショウ'
-  },
-  {
-    kanji: '早',
-    furigana: 'はやいソウ'
-  },
-  {
-    kanji: '言',
-    furigana: 'いうゲンゴン'
-  },
-  {
-    kanji: '話',
-    furigana: 'はなすはなしワ'
-  },
-  {
-    kanji: '語',
-    furigana: 'かたるゴ'
-  },
-  {
-    kanji: '読',
-    furigana: 'よむドク'
-  },
-  {
-    kanji: '書',
-    furigana: 'かくショ'
-  },
-  {
-    kanji: '見',
-    furigana: 'みるケン'
-  },
-  {
-    kanji: '聞',
-    furigana: 'きくきこえるブン'
-  },
-  {
-    kanji: '行',
-    furigana: 'いくおこなうコウギョウ'
-  },
-  {
-    kanji: '来',
-    furigana: 'くるこないきますライ'
-  },
-  {
-    kanji: '出',
-    furigana: 'でるだすシュツシュッー'
-  },
-  {
-    kanji: '入',
-    furigana: 'はいるいれるニュウ'
-  },
-  {
-    kanji: '食',
-    furigana: 'たべるショク'
-  },
-  {
-    kanji: '飲',
-    furigana: 'のむイン'
-  },
-  {
-    kanji: '立',
-    furigana: 'たつリツリッー'
-  },
-  {
-    kanji: '休',
-    furigana: 'やすむキュウ'
-  },
-  {
-    kanji: '買',
-    furigana: 'かうバイ'
-  },
-  {
-    kanji: '電',
-    furigana: 'デン'
-  },
-  {
-    kanji: '車',
-    furigana: 'くるまシャ'
-  },
-  {
-    kanji: '門',
-    furigana: 'モン'
-  },
-  {
-    kanji: '馬',
-    furigana: 'うまバ'
-  },
-  {
-    kanji: '魚',
-    furigana: 'さかなギョ'
-  },
-  {
-    kanji: '道',
-    furigana: 'みちドウ'
-  },
-  {
-    kanji: '会',
-    furigana: 'あうカイ'
-  },
-  {
-    kanji: '社',
-    furigana: 'シャージャ'
-  },
-  {
-    kanji: '店',
-    furigana: 'みせテン'
-  },
-  {
-    kanji: '駅',
-    furigana: 'エキ'
-  },
-  {
-    kanji: '花',
-    furigana: 'はなカ'
-  },
-  {
-    kanji: '家',
-    furigana: 'いえやカケ'
-  },
-  {
-    kanji: '何',
-    furigana: 'なに'
-  },
-  {
-    kanji: '外',
-    furigana: 'そとガイ'
-  },
-  {
-    kanji: '国',
-    furigana: 'くにコクゴク'
-  },
-  {
-    kanji: '方',
-    furigana: 'かたがたホウ'
-  },
-  {
-    kanji: '英',
-    furigana: 'ひでエイ'
+    kanji: '機',
+    furigana: 'キはた'
   }
+
+  //   {
+  //     kanji: '百',
+  //     furigana: 'ヒャク'
+  //   },
+  //   {
+  //     kanji: '千',
+  //     furigana: 'ちセン'
+  //   },
+  //   {
+  //     kanji: '万',
+  //     furigana: 'マンパン'
+  //   },
+  //   {
+  //     kanji: '円',
+  //     furigana: 'エン'
+  //   },
+  //   {
+  //     kanji: '前',
+  //     furigana: 'まえゼン'
+  //   },
+  //   {
+  //     kanji: '後',
+  //     furigana: 'うしろあとゴコウ'
+  //   },
+  //   {
+  //     kanji: '左',
+  //     furigana: 'ひだりサ'
+  //   },
+  //   {
+  //     kanji: '右',
+  //     furigana: 'みぎウユウ'
+  //   },
+  //   {
+  //     kanji: '上',
+  //     furigana: 'うえあがるジョウ'
+  //   },
+  //   {
+  //     kanji: '下',
+  //     furigana: 'したさがるカゲ'
+  //   },
+  //   {
+  //     kanji: '目',
+  //     furigana: 'めモク'
+  //   },
+  //   {
+  //     kanji: '口',
+  //     furigana: 'くちコウ'
+  //   },
+  //   {
+  //     kanji: '耳',
+  //     furigana: 'みみジ'
+  //   },
+  //   {
+  //     kanji: '手',
+  //     furigana: 'てシュ'
+  //   },
+  //   {
+  //     kanji: '足',
+  //     furigana: 'あしたりるソク'
+  //   },
+  //   {
+  //     kanji: '力',
+  //     furigana: 'ちからリョクリキ'
+  //   },
+  //   {
+  //     kanji: '父',
+  //     furigana: 'ちちフ'
+  //   },
+  //   {
+  //     kanji: '母',
+  //     furigana: 'ははボ'
+  //   },
+  //   {
+  //     kanji: '男',
+  //     furigana: 'おとこダンナン'
+  //   },
+  //   {
+  //     kanji: '女',
+  //     furigana: 'おんなジョ'
+  //   },
+  //   {
+  //     kanji: '子',
+  //     furigana: 'こシ'
+  //   },
+  //   {
+  //     kanji: '人',
+  //     furigana: 'ひとジンニン'
+  //   },
+  //   {
+  //     kanji: '名',
+  //     furigana: 'なメイ'
+  //   },
+  //   {
+  //     kanji: '月',
+  //     furigana: 'つきゲツ-ガツ'
+  //   },
+  //   {
+  //     kanji: '火',
+  //     furigana: 'ひカ'
+  //   },
+  //   {
+  //     kanji: '水',
+  //     furigana: 'みずスイ'
+  //   },
+  //   {
+  //     kanji: '木',
+  //     furigana: 'きモク'
+  //   },
+  //   {
+  //     kanji: '金',
+  //     furigana: 'かねキン'
+  //   },
+  //   {
+  //     kanji: '土',
+  //     furigana: 'つちドト'
+  //   },
+  //   {
+  //     kanji: '日',
+  //     furigana: 'ひびニチニジツ'
+  //   },
+  //   {
+  //     kanji: '先',
+  //     furigana: 'さきセン'
+  //   },
+  //   {
+  //     kanji: '生',
+  //     furigana: 'うまれるいきるセイ'
+  //   },
+  //   {
+  //     kanji: '学',
+  //     furigana: 'まなぶガクガッー'
+  //   },
+  //   {
+  //     kanji: '校',
+  //     furigana: 'コウ'
+  //   },
+  //   {
+  //     kanji: '本',
+  //     furigana: 'もとホンポンボン'
+  //   },
+  //   {
+  //     kanji: '友',
+  //     furigana: 'ともユウ'
+  //   },
+  //   {
+  //     kanji: '年',
+  //     furigana: 'としネン'
+  //   },
+  //   {
+  //     kanji: '毎',
+  //     furigana: 'マイ'
+  //   },
+  //   {
+  //     kanji: '時',
+  //     furigana: 'ときジ'
+  //   },
+  //   {
+  //     kanji: '分',
+  //     furigana: 'わけるわかるブン・フン・-プン'
+  //   },
+  //   {
+  //     kanji: '午',
+  //     furigana: 'ゴ'
+  //   },
+  //   {
+  //     kanji: '間',
+  //     furigana: 'あいだまカン'
+  //   },
+  //   {
+  //     kanji: '今',
+  //     furigana: 'いまコン'
+  //   },
+  //   {
+  //     kanji: '半',
+  //     furigana: 'ハン'
+  //   },
+  //   {
+  //     kanji: '週',
+  //     furigana: 'シュウ'
+  //   },
+  //   {
+  //     kanji: '朝',
+  //     furigana: 'あさチョウ'
+  //   },
+  //   {
+  //     kanji: '昼',
+  //     furigana: 'ひるチュウ'
+  //   },
+  //   {
+  //     kanji: '夕',
+  //     furigana: 'ゆう'
+  //   },
+  //   {
+  //     kanji: '夜',
+  //     furigana: 'よるよヤ'
+  //   },
+  //   {
+  //     kanji: '高',
+  //     furigana: 'たかいコウ'
+  //   },
+  //   {
+  //     kanji: '大',
+  //     furigana: 'おおきいダイタイ'
+  //   },
+  //   {
+  //     kanji: '中',
+  //     furigana: 'なかチュウジュウ'
+  //   },
+  //   {
+  //     kanji: '小',
+  //     furigana: 'ちいさいおこショウ'
+  //   },
+  //   {
+  //     kanji: '長',
+  //     furigana: 'ながいチョウ'
+  //   },
+  //   {
+  //     kanji: '白',
+  //     furigana: 'しろしろいハク'
+  //   },
+  //   {
+  //     kanji: '安',
+  //     furigana: 'やすいアン'
+  //   },
+  //   {
+  //     kanji: '新',
+  //     furigana: 'あたらしいシン'
+  //   },
+  //   {
+  //     kanji: '古',
+  //     furigana: 'ふるいコ'
+  //   },
+  //   {
+  //     kanji: '多',
+  //     furigana: 'おおいタ'
+  //   },
+  //   {
+  //     kanji: '少',
+  //     furigana: 'すくないすこーしショウ'
+  //   },
+  //   {
+  //     kanji: '早',
+  //     furigana: 'はやいソウ'
+  //   },
+  //   {
+  //     kanji: '言',
+  //     furigana: 'いうゲンゴン'
+  //   },
+  //   {
+  //     kanji: '話',
+  //     furigana: 'はなすはなしワ'
+  //   },
+  //   {
+  //     kanji: '語',
+  //     furigana: 'かたるゴ'
+  //   },
+  //   {
+  //     kanji: '読',
+  //     furigana: 'よむドク'
+  //   },
+  //   {
+  //     kanji: '書',
+  //     furigana: 'かくショ'
+  //   },
+  //   {
+  //     kanji: '見',
+  //     furigana: 'みるケン'
+  //   },
+  //   {
+  //     kanji: '聞',
+  //     furigana: 'きくきこえるブン'
+  //   },
+  //   {
+  //     kanji: '行',
+  //     furigana: 'いくおこなうコウギョウ'
+  //   },
+  //   {
+  //     kanji: '来',
+  //     furigana: 'くるこないきますライ'
+  //   },
+  //   {
+  //     kanji: '出',
+  //     furigana: 'でるだすシュツシュッー'
+  //   },
+  //   {
+  //     kanji: '入',
+  //     furigana: 'はいるいれるニュウ'
+  //   },
+  //   {
+  //     kanji: '食',
+  //     furigana: 'たべるショク'
+  //   },
+  //   {
+  //     kanji: '飲',
+  //     furigana: 'のむイン'
+  //   },
+  //   {
+  //     kanji: '立',
+  //     furigana: 'たつリツリッー'
+  //   },
+  //   {
+  //     kanji: '休',
+  //     furigana: 'やすむキュウ'
+  //   },
+  //   {
+  //     kanji: '買',
+  //     furigana: 'かうバイ'
+  //   },
+  //   {
+  //     kanji: '電',
+  //     furigana: 'デン'
+  //   },
+  //   {
+  //     kanji: '車',
+  //     furigana: 'くるまシャ'
+  //   },
+  //   {
+  //     kanji: '門',
+  //     furigana: 'モン'
+  //   },
+  //   {
+  //     kanji: '馬',
+  //     furigana: 'うまバ'
+  //   },
+  //   {
+  //     kanji: '魚',
+  //     furigana: 'さかなギョ'
+  //   },
+  //   {
+  //     kanji: '道',
+  //     furigana: 'みちドウ'
+  //   },
+  //   {
+  //     kanji: '会',
+  //     furigana: 'あうカイ'
+  //   },
+  //   {
+  //     kanji: '社',
+  //     furigana: 'シャージャ'
+  //   },
+  //   {
+  //     kanji: '店',
+  //     furigana: 'みせテン'
+  //   },
+  //   {
+  //     kanji: '駅',
+  //     furigana: 'エキ'
+  //   },
+  //   {
+  //     kanji: '花',
+  //     furigana: 'はなカ'
+  //   },
+  //   {
+  //     kanji: '家',
+  //     furigana: 'いえやカケ'
+  //   },
+  //   {
+  //     kanji: '何',
+  //     furigana: 'なに'
+  //   },
+  //   {
+  //     kanji: '外',
+  //     furigana: 'そとガイ'
+  //   },
+  //   {
+  //     kanji: '国',
+  //     furigana: 'くにコクゴク'
+  //   },
+  //   {
+  //     kanji: '方',
+  //     furigana: 'かたがたホウ'
+  //   },
+  //   {
+  //     kanji: '英',
+  //     furigana: 'ひでエイ'
+  //   }
 ]
