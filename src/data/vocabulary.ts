@@ -178,6 +178,22 @@ export const vocabularyData: VocabularyItem[] = [
   {
     kanji: '鼻',
     furigana: 'ビはな'
+  },
+  {
+    kanji: '時',
+    furigana: 'ジとき'
+  },
+  {
+    kanji: '間',
+    furigana: 'カンあいだ'
+  },
+  {
+    kanji: '鶏',
+    furigana: 'ケイとり'
+  },
+  {
+    kanji: '肉',
+    furigana: 'ニクしし'
   }
 
   //   {
@@ -333,20 +349,12 @@ export const vocabularyData: VocabularyItem[] = [
   //     furigana: 'マイ'
   //   },
   //   {
-  //     kanji: '時',
-  //     furigana: 'ときジ'
-  //   },
-  //   {
   //     kanji: '分',
   //     furigana: 'わけるわかるブン・フン・-プン'
   //   },
   //   {
   //     kanji: '午',
   //     furigana: 'ゴ'
-  //   },
-  //   {
-  //     kanji: '間',
-  //     furigana: 'あいだまカン'
   //   },
   //   {
   //     kanji: '今',
