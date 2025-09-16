@@ -130,6 +130,54 @@ export const vocabularyData: VocabularyItem[] = [
   {
     kanji: '機',
     furigana: 'キはた'
+  },
+  {
+    kanji: '風',
+    furigana: 'フウかぜ'
+  },
+  {
+    kanji: '風',
+    furigana: 'フウかぜ'
+  },
+  {
+    kanji: '邪',
+    furigana: 'ジャよこしま'
+  },
+  {
+    kanji: '飛',
+    furigana: 'ヒとぶ'
+  },
+  {
+    kanji: '行',
+    furigana: 'コウい'
+  },
+  {
+    kanji: '呂',
+    furigana: 'ロ'
+  },
+  {
+    kanji: '顔',
+    furigana: 'ガンかあ'
+  },
+  {
+    kanji: '頼',
+    furigana: 'ライたの'
+  },
+  {
+    kanji: '頭',
+    furigana: 'トウあたま'
+  },
+  {
+    kanji: '音',
+    furigana: 'オンおと'
+  },
+  {
+    kanji: '楽',
+    furigana: 'ガクたの'
+  },
+  {
+    kanji: '鼻',
+    furigana: 'ビはな'
   }
 
   //   {
@@ -403,10 +451,6 @@ export const vocabularyData: VocabularyItem[] = [
   //   {
   //     kanji: '聞',
   //     furigana: 'きくきこえるブン'
-  //   },
-  //   {
-  //     kanji: '行',
-  //     furigana: 'いくおこなうコウギョウ'
   //   },
   //   {
   //     kanji: '来',
