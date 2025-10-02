@@ -194,7 +194,64 @@ export const vocabularyData: VocabularyItem[] = [
   {
     kanji: '肉',
     furigana: 'ニクしし'
+  },
+  {
+    kanji: '靴',
+    furigana: 'カくつ'
+  },
+  {
+    kanji: '鞄',
+    furigana: 'かばん'
+  },
+  {
+    kanji: '面',
+    furigana: 'メンおも'
+  },
+  {
+    kanji: '白',
+    furigana: 'ハクしろ'
+  },
+  {
+    kanji: '静',
+    furigana: 'セイしず'
+  },
+  {
+    kanji: '青',
+    furigana: 'セイあお'
+  },
+  {
+    kanji: '電',
+    furigana: 'デン'
+  },
+  {
+    kanji: '車',
+    furigana: 'シャくるま'
+  },
+  {
+    kanji: '黒',
+    furigana: 'コクしろ'
+  },
+  {
+    kanji: '杯',
+    furigana: 'はい'
+  },
+  {
+    kanji: '魚',
+    furigana: 'ギョさかな'
+  },
+  {
+    kanji: '鳴',
+    furigana: 'メイなく'
+  },
+  {
+    kanji: '剣',
+    furigana: 'ケン'
+  },
+  {
+    kanji: '前',
+    furigana: 'ゼンまえ'
   }
+
 
   //   {
   //     kanji: '百',
@@ -405,10 +462,6 @@ export const vocabularyData: VocabularyItem[] = [
   //     furigana: 'ながいチョウ'
   //   },
   //   {
-  //     kanji: '白',
-  //     furigana: 'しろしろいハク'
-  //   },
-  //   {
   //     kanji: '安',
   //     furigana: 'やすいアン'
   //   },
@@ -493,24 +546,12 @@ export const vocabularyData: VocabularyItem[] = [
   //     furigana: 'かうバイ'
   //   },
   //   {
-  //     kanji: '電',
-  //     furigana: 'デン'
-  //   },
-  //   {
-  //     kanji: '車',
-  //     furigana: 'くるまシャ'
-  //   },
-  //   {
   //     kanji: '門',
   //     furigana: 'モン'
   //   },
   //   {
   //     kanji: '馬',
   //     furigana: 'うまバ'
-  //   },
-  //   {
-  //     kanji: '魚',
-  //     furigana: 'さかなギョ'
   //   },
   //   {
   //     kanji: '道',

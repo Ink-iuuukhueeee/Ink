@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from "react"
 import type { VocabularyItem } from "../types/types"
-import { vocabularyData } from "../data/vocabulary";
+// import { vocabularyData } from "../data/vocabulary";
+import { kanji as vocabularyData } from "../data/kanji"
 
 // Fisher-Yates shuffle algorithm
 const shuffle = <T,>(array: T[]): T[] => {
